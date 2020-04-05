@@ -108,9 +108,8 @@
 				1860F6D5243A09C0008EA639 /* AppDelegate.m */,
 				1860F6D7243A09C0008EA639 /* SceneDelegate.h */,
 				1860F6D8243A09C0008EA639 /* SceneDelegate.m */,
-				1860F6DA243A09C0008EA639 /* ViewController.h */,
-				1860F6DB243A09C0008EA639 /* ViewController.m */,
 				1860F6DD243A09C0008EA639 /* Main.storyboard */,
+				1860F709243A1406008EA639 /* Classes */,
 				1860F6E0243A09C3008EA639 /* Assets.xcassets */,
 				1860F6E2243A09C3008EA639 /* LaunchScreen.storyboard */,
 				1860F6E5243A09C3008EA639 /* Info.plist */,
@@ -135,6 +134,15 @@
 				1860F6FD243A09C3008EA639 /* Info.plist */,
 			);
 			path = Component_1UITests;
+			sourceTree = "<group>";
+		};
+		1860F709243A1406008EA639 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1860F6DA243A09C0008EA639 /* ViewController.h */,
+				1860F6DB243A09C0008EA639 /* ViewController.m */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
